@@ -18,7 +18,10 @@ With CVInsight, you get premium-level insights without leaving the job board:
 
 ## 🛠️ How to Install (Takes 30 seconds!)
 
-Since we are currently awaiting official approval on the Chrome Web Store and Microsoft Edge Add-ons, you can install the beta version directly by following these simple steps:
+For microsoft edge browser users : https://microsoftedge.microsoft.com/addons/detail/cvinsight-job-match-sco/dmopmlfadooeichchhdpnldalfglbodg
+
+
+Since we are currently awaiting official approval on the Chrome Web Store, you can install the beta version directly by following these simple steps:
 
 1. **Download the Extension:** Download the `CVInsight_Extension_Production.zip` file from this repository.
 2. **Extract the ZIP:** Unzip/Extract the downloaded file into a folder on your computer.
