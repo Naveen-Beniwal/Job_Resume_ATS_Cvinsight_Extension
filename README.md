@@ -2,7 +2,9 @@
 
 Welcome to the **CVInsight Extension**, your ultimate companion for dominating the job hunt. 
 
-Why pay for expensive LinkedIn Premium features when you can get them for free? CVInsight sits right in your browser and automatically analyzes jobs on LinkedIn, Naukri, and Internshala as you browse, giving you an unfair advantage in your job search.
+CVInsight brings AI-powered job matching, resume tailoring, interview preparation, and job tracking directly into your browser.
+
+CVInsight sits right in your browser and automatically analyzes jobs on LinkedIn, Naukri, and Internshala as you browse, giving you an unfair advantage in your job search.
 
 ## ✨ Supercharge Your Job Search
 With CVInsight, you get premium-level insights without leaving the job board:
@@ -35,3 +37,27 @@ We will be officially launching on the **Google Chrome Web Store** and **Microso
 
 ## 🤝 Share the Love
 If CVInsight helps you land an interview or saves you hours of resume tailoring, please share this repository with your friends, classmates, and network! Let's help everyone get hired faster.
+
+---
+
+## 📸 See CVInsight in Action
+
+### 🎯 Instant Job & Resume Scoring
+![CVInsight Job Scoring](https://raw.githubusercontent.com/Naveen-Beniwal/Job_Resume_ATS_Cvinsight_Extension/main/extension_scoring.png)
+
+### 🤖 Deep AI Job Analysis
+![CVInsight Deep AI Analysis](https://raw.githubusercontent.com/Naveen-Beniwal/Job_Resume_ATS_Cvinsight_Extension/main/extension_deep_ai.png)
+
+### 📄 One-Click Resume Tailoring
+![CVInsight Resume Tailoring](https://raw.githubusercontent.com/Naveen-Beniwal/Job_Resume_ATS_Cvinsight_Extension/main/job_tailored%20(1).png)
+
+### ✨ Resume Studio
+![CVInsight Resume Studio](https://raw.githubusercontent.com/Naveen-Beniwal/Job_Resume_ATS_Cvinsight_Extension/main/resume_studio.png)
+
+### 🏢 Company-Specific Interview Preparation
+![CVInsight Company Preparation](https://raw.githubusercontent.com/Naveen-Beniwal/Job_Resume_ATS_Cvinsight_Extension/main/company_specific_preparation.png)
+
+### 📌 Job Tracker
+![CVInsight Job Tracker](https://raw.githubusercontent.com/Naveen-Beniwal/Job_Resume_ATS_Cvinsight_Extension/main/job_tracker.png)
+
+---
