@@ -18,6 +18,7 @@ With CVInsight, you get premium-level insights without leaving the job board:
 
 ## 🛠️ How to Install (Takes 30 seconds!)
 
+Now live for chrome users too : https://chromewebstore.google.com/detail/ebcdnlkiacglidmohjonnidmgdbfghdo?utm_source=item-share-cb
 For microsoft edge browser users : https://microsoftedge.microsoft.com/addons/detail/cvinsight-job-match-sco/dmopmlfadooeichchhdpnldalfglbodg
 
 
